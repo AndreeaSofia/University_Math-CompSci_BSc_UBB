@@ -1,0 +1,2 @@
+# BBU, "Babeș-Bolyai" University: _Mathematics and Computer Science_ BSc
+Welcome to a course repository specifically tailored for students pursuing the **Mathematics and Computer Science** double bachelor's degree at "Babeș-Bolyai" University. This repository is an organized collection of **resources**, **extra/practice problems**, **homework** and **course materials** I've amassed over the years. Whether you're a current student looking for additional notes, or a future student curious about the content of the program, I hope you find this repository useful.
