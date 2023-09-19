@@ -47,8 +47,8 @@ Welcome to a course repository specifically tailored for students pursuing the *
 ## Year 1
 ### Semester 1
 **Mandatory courses**:
-- **Algebra 1 (Linear Algebra)**:
-- **Algorithms and Programming**:
+- **Algebra 1 (Linear Algebra)**;
+- **Algorithms and Programming**;
 - **Calculus 1 (Calculus on R)**;
 - **Geometry 1 (Analytic Geometry)**;
 - **Mathematical Logic and Set Theory**.
@@ -58,11 +58,11 @@ Welcome to a course repository specifically tailored for students pursuing the *
 
 ### Semester 2
 **Mandatory courses**:
-- Algebra 2 (Basic Algebraic Structures)
-- Calculus 2 (Differential and integral calculus in R^n)
-- Data Structures
-- Geometry 2 (Affine Geometry)
-- Object Oriented Programming
+- Algebra 2 (Basic Algebraic Structures);
+- Calculus 2 (Differential and integral calculus in R^n);
+- Data Structures;
+- Geometry 2 (Affine Geometry);
+- Object Oriented Programming.
 
 **Optional courses**:
-- Fundamentals of humanistic education (Argumentation theory)
+- Fundamentals of humanistic education (Argumentation theory).
