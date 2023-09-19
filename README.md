@@ -11,12 +11,6 @@ Welcome to a course repository specifically tailored for students pursuing the *
     - [Year 1](#year-1)
         - [Semester 1](#semester-1)
         - [Semester 2](#semester-2)
-    - [Year 2](#year-2)
-        - [Semester 1](#semester-3)
-        - [Semester 2](#semester-4)
-    - [Year 3](#year-3)
-        - [Semester 1](#semester-5)
-        - [Semester 2](#semester-6)
 - [Contributions](#contributions)
 - [Contact & Feedback](#contact--feedback)
 
@@ -54,19 +48,7 @@ Welcome to a course repository specifically tailored for students pursuing the *
 ### Semester 1
 **Mandatory courses**:
 - **Algebra 1 (Linear Algebra)**:
-    - Bibliography;
-    - Class Notes;
-    - Seminaries;
-    - Laboratories;
-    - Extra Work/Practice Exercises;
-    - Resources/Tools.
 - **Algorithms and Programming**:
-    - Bibliography;
-    - Class Notes;
-    - Seminaries;
-    - Laboratories;
-    - Extra Work/Practice Exercises;
-    - Resources/Tools. 
 - **Calculus 1 (Calculus on R)**;
 - **Geometry 1 (Analytic Geometry)**;
 - **Mathematical Logic and Set Theory**.
@@ -84,40 +66,3 @@ Welcome to a course repository specifically tailored for students pursuing the *
 
 **Optional courses**:
 - Fundamentals of humanistic education (Argumentation theory)
-
-## Year 2
-
-### Semester 1
-
-**Mandatory courses**:
-- Complex Analysis
-- Computer Systems Architecture
-- Databases
-- Differential Equations
-
-### Semester 2
-
-**Mandatory courses**:
-- Numerical Analysis
-- Operating Systems
-- Probability Theory
-- Real Analysis
-- Theoretical Mechanics
-
-## Year 3
-
-### Semester 1
-
-**Mandatory courses**:
-- Formal Languages and Compiler Design
-- Mathematical Statistics
-- Software Project Management
-- Team Project (Proiect colectiv)
-
-### Semester 2
-
-**Mandatory courses**:
-- Artificial Intelligence
-- Optimization Techniques
-- Software Engineering
-- Web Programming
