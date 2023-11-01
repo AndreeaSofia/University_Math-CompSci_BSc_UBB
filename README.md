@@ -47,22 +47,19 @@ Welcome to a course repository specifically tailored for students pursuing the *
 ## Year 1
 ### Semester 1
 **Mandatory courses**:
-- **Algebra 1 (Linear Algebra)**;
-- **Algorithms and Programming**;
-- **Calculus 1 (Calculus on R)**;
-- **Geometry 1 (Analytic Geometry)**;
-- **Mathematical Logic and Set Theory**.
-
-**Optional courses**:
-- **Professional Communication and Career Plan**.
+- **[Algebra 1 (Linear Algebra)](https://github.com/AndreeaSofia/University_Math-CompSci_BSc_UBB/tree/main/First%20year%20-%20Semester%201/Mandatory%20courses%20(Cursuri%20obligatorii)/Algebra%201%20(Linear%20Algebra))**/Algebră liniară;
+- **[Algorithms and Programming](https://github.com/AndreeaSofia/University_Math-CompSci_BSc_UBB/tree/main/First%20year%20-%20Semester%201/Mandatory%20courses%20(Cursuri%20obligatorii)/Algorithms%20and%20Programming)**/Algoritmi și Programare;
+- **[Calculus 1 (Calculus on R)](https://github.com/AndreeaSofia/University_Math-CompSci_BSc_UBB/tree/main/First%20year%20-%20Semester%201/Mandatory%20courses%20(Cursuri%20obligatorii)/Calculus%201%20(Calculus%20on%20R))**/Analiză pe R;
+- **[Geometry 1 (Analytic Geometry)](https://github.com/AndreeaSofia/University_Math-CompSci_BSc_UBB/tree/main/First%20year%20-%20Semester%201/Mandatory%20courses%20(Cursuri%20obligatorii)/Geometry%201%20(Analytic%20Geometry))**/Geometrie Analitică;
+- **[Mathematical Logic and Set Theory](https://github.com/AndreeaSofia/University_Math-CompSci_BSc_UBB/tree/main/First%20year%20-%20Semester%201/Mandatory%20courses%20(Cursuri%20obligatorii)/Matematical%20Logic%20and%20Set%20Theory)**/Logică Matematică și Teoria Mulțimilor.
 
 ### Semester 2
 **Mandatory courses**:
-- Algebra 2 (Basic Algebraic Structures);
-- Calculus 2 (Differential and integral calculus in R^n);
-- Data Structures;
-- Geometry 2 (Affine Geometry);
-- Object Oriented Programming.
+- **[Algebra 2 (Basic Algebraic Structures)]()**/Structuri Algebrice de Bază;
+- **[Calculus 2 (Differential and Integral Calculus in R^n)]()**/Calcul Diferenţial şi Integral în R^n;
+- **[Data Structures]()**/Structuri de date;
+- **[Geometry 2 (Affine Geometry)]()**/Geometrie Afină;
+- **[Object Oriented Programming]()**/Programare Orientată Obiect.
 
 **Optional courses**:
-- Fundamentals of humanistic education (Argumentation theory).
+- **[Fundamentals of humanistic education (Argumentation Theory)]()**/Fundamente de educație umanistă (Teoria Argumentării).
